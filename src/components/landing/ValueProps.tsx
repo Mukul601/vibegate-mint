@@ -96,7 +96,7 @@ export default function ValueProps() {
             Built for <span className="text-gradient">Everyone</span>
           </motion.h2>
           <p className="mt-3 text-muted-foreground max-w-xl mx-auto">
-            Whether you have spare resources or need on-demand access, VibeGate connects both sides seamlessly.
+            Whether you have spare resources or need on-demand access, JellyNet connects both sides seamlessly.
           </p>
         </div>
 

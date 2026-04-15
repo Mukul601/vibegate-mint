@@ -5,13 +5,13 @@ const testimonials = [
   {
     name: "Sarah K.",
     role: "Freelance Developer",
-    text: "I had 3 unused API subscriptions sitting around. Listed them on VibeGate and now they earn me ~$200/month in ALGO passively. Absolutely wild.",
+    text: "I had 3 unused API subscriptions sitting around. Listed them on JellyNet and now they earn me ~$200/month in ALGO passively. Absolutely wild.",
     avatar: "SK",
   },
   {
     name: "AgentFlow Labs",
     role: "AI Startup",
-    text: "x402 micropayments changed our cost model. We pay per-call instead of committing to expensive enterprise plans. VibeGate's marketplace is a goldmine.",
+    text: "x402 micropayments changed our cost model. We pay per-call instead of committing to expensive enterprise plans. JellyNet's marketplace is a goldmine.",
     avatar: "AF",
   },
   {
