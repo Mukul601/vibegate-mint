@@ -6,25 +6,25 @@ const features = [
     icon: Layers,
     title: "API Stacking",
     desc: "Chain multiple APIs into composable bundles — agents get multi-step workflows in a single call.",
-    status: "Q3 2025",
+    status: "Q2 2026",
   },
   {
     icon: Wifi,
     title: "Residential IP Network",
     desc: "Monetize your home internet connection as a trusted proxy for AI web agents.",
-    status: "Q4 2025",
+    status: "Q2 2026",
   },
   {
     icon: Globe2,
     title: "MCP Web Limits",
     desc: "Sell access to your authenticated web sessions and platform limits via Model Context Protocol.",
-    status: "Q4 2025",
+    status: "Q3 2026",
   },
   {
     icon: Monitor,
     title: "Device Compute",
     desc: "Share idle GPU/CPU cycles for AI inference tasks and earn per-computation.",
-    status: "2026",
+    status: "Q3 2026",
   },
 ];
 

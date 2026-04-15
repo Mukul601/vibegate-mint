@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# JellyNet — The Jelly Network
 
-TODO: Document your project here
+The agentic marketplace where anyone monetizes unused APIs, IP addresses, device compute, and web limits via instant x402 micropayments on Algorand.

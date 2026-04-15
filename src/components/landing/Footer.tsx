@@ -12,14 +12,14 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-7 h-7 rounded-md bg-primary flex items-center justify-center">
-                <span className="font-display font-bold text-primary-foreground text-xs">VG</span>
+                <span className="font-display font-bold text-primary-foreground text-xs">JN</span>
               </div>
               <span className="font-display font-semibold text-foreground">
-                Vibe<span className="text-primary">Gate</span>
+                Jelly<span className="text-primary">Net</span>
               </span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              The agentic marketplace for unused digital resources. Powered by Algorand.
+              The Jelly Network — an agentic marketplace for unused digital resources. Powered by Algorand.
             </p>
           </div>
 
@@ -41,7 +41,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-border/50 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-muted-foreground">
-            © 2025 VibeGate. All rights reserved.
+            © 2026 JellyNet. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground">
             Built on <span className="text-primary">Algorand</span> · x402 Protocol
